@@ -1,1 +1,1 @@
-# imgs-for-CodePen
+# CodePenに画像をアップロードする用に作成したリポジトリです
